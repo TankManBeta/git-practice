@@ -1,5 +1,3 @@
-[toc]
-
 # 提交项目至GitHub仓库
 
 1. 新建仓库，会出现仓库地址，例如：https://github.com/TankManBeta/git-practice.git
