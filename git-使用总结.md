@@ -67,10 +67,10 @@
       git remote -v
       ```
 
-   2. 删除旧的提交方式： 
+   2. 删除旧的提交方式：
 
       ```shell
-   git remote rm origin
+      git remote rm origin
       ```
 
    3. 修改提交方式
