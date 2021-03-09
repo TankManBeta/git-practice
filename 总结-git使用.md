@@ -64,10 +64,16 @@
    1. 查看项目采用的提交方式：
 
       ```shell
-      git remote rm origin
+      git remote -v
       ```
 
-   2. 修改提交方式
+   2. 删除旧的提交方式
+
+      ```shell
+   git remote rm origin
+      ```
+
+   3. 修改提交方式
 
       1. `GitHub`仓库 --> `Clone or download` --> `User SSH`，获取`SSH`链接
 
